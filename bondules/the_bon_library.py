@@ -7,7 +7,7 @@ letters = ['a', 'b', 'c', 'd', 'e']
 numbers = [1, 2, 3, 4, 5, 6, 7, 8]
 strings = ['now', 'is', 'the', 'time']
 empties = ['']
-nulls = [None, np.NaN]
+nulls = [None, np.nan]
 data = letters + numbers + strings
 
 
