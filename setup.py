@@ -9,7 +9,7 @@ setuptools.setup(
     description='Utility code created and used by Bon Crowder',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    version='1.0.1',
+    version='1.0.2',
     url='http://github.com/mathfour/bondules',
     author='Bon Crowder @MathFour',
     author_email='bon@mathfour.com',
